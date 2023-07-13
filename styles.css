@@ -4,6 +4,8 @@
     background-color: rgb(250, 235, 243);
 }
 
+/* like button */
+
 .like{
     background-color: #007680;
     border: #007680;
@@ -17,6 +19,8 @@
     padding-right: 40px;
 }
 
+/* comment button */
+
 .comment{
     background-color: #007680;
     border: #007680;
@@ -28,4 +32,19 @@
     padding-bottom: 20px;
     padding-left: 24px;
     padding-right: 24px;
+}
+
+/* share button */
+
+.share{
+    background-color: #007680;
+    border: #007680;
+    color: white;
+    position: center;
+    margin-left: 50%;
+    margin-top: 4%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
