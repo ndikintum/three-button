@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 235, 243);
+}
+
+.like{
+    background-color: #007680;
+    border: #007680;
+    color: white;
+    position: center;
+    margin-left: 50%;
+    margin-top: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
