@@ -1,7 +1,7 @@
 *{
-    margin: 0;
-    padding: 0;
-    background-color: rgb(250, 235, 243);
+        margin: 0;
+         padding: 0;
+        background-color: rgb(250, 235, 243);
 }
 
 /* like button */
@@ -37,14 +37,14 @@
 /* share button */
 
 .share{
-    background-color: #007680;
-    border: #007680;
-    color: white;
-    position: center;
-    margin-left: 50%;
-    margin-top: 4%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 35px;
-    padding-right: 35px;
+        background-color: #007680;
+        border: #007680;
+        color: white;
+        position: center;
+        margin-left: 50%;
+        margin-top: 4%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 35px;
+        padding-right: 35px;
 }
